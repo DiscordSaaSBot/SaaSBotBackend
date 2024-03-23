@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaSBotBackend", "SaaSBotBackend\SaaSBotBackend.csproj", "{4FA3D2FE-625C-4949-9FC7-1C135789DE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
