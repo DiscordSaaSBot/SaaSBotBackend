@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaSBotBackend", "SaaSBotBackend\SaaSBotBackend.csproj", "{4FA3D2FE-625C-4949-9FC7-1C135789DE54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C9AC1B11-DF54-433D-A385-4D5F257BDBED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA3D2FE-625C-4949-9FC7-1C135789DE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AC1B11-DF54-433D-A385-4D5F257BDBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AC1B11-DF54-433D-A385-4D5F257BDBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AC1B11-DF54-433D-A385-4D5F257BDBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AC1B11-DF54-433D-A385-4D5F257BDBED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
